@@ -1,0 +1,111 @@
+- class_name: 关于我
+  subtitle: About Bao
+  avatarImg: https://q.qlogo.cn/g?b=qq&nk=14141522&s=640
+  avatarSkills:
+    left:
+      - 🎨 艺术创意工作者
+      - 🤖️ 数码产品捡漏党
+      - 💻 前端入门探索者
+    right:
+      - 野生电脑拯救者 🧰
+      - 电子竞技送分狂 🎮
+      - 更多技能待解锁 ✨
+  name: 宝昌
+  description: 菜鸟剪辑师／独立开发者
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 创造
+      - 探索
+  helloAbout: 天选母胎 SOLO
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU, 动画专业
+        color: "#357ef5"
+      - desc: JOB, 视频内容开发
+        color: "#357ef5"
+      - desc: NOW, 前端项目设计
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 当前位于
+    StrengthenTitle: 江苏·苏州
+    background: /img/location.png
+    backgroundDark: /img/location-dark.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2000
+    selfInfoTips2: 家里蹲大学
+    selfInfoContent2: Animation
+    selfInfoTips3: 现在职业
+    selfInfoContent3: Producer
+  personalities:
+    author_name: 主人公
+    personality_type: ENFJ人格
+    photo_url: https://www.16personalities.com/static/images/personality-types/headers/diplomats_Protagonist_ENFJ_personality_header.svg
+    personality_img: https://www.16personalities.com/static/images/personality-types/avatars/enfj-protagonist.svg
+    name_url: https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 不与世争，
+    maxim_bottom: 不随俗尘。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 打工仔
+    buff_bottom: 工具人指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: PUBG Mobile
+    game_uid: "UID: 5237121488"
+    game_bg: https://www.pubgmobile.com/images/event/home/part6.jpg
+  comic:
+    comic_tips: 近期观影
+    comic_title: 追剧
+    comic_list:
+      - name: 超异能族
+        href: https://movie.douban.com/subject/35206436/
+        cover: https://img1.doubanio.com/view/photo/l/public/p2898332538.webp
+      - name: 好事成双
+        href: https://movie.douban.com/subject/35490184/
+        cover: https://img.ophim9.cc/uploads/movies/chuyen-tot-thanh-doi-thumb.jpg
+      - name: 宇宙探索编辑部
+        href: https://movie.douban.com/subject/34941536/
+        cover: https://img1.doubanio.com/view/photo/l/public/p2878630517.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131
+        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 欧美、民谣、华语流行
+    music_bg: http://p2.music.126.net/_yDVvfmDLOTPxkQ_vCKVDg==/109951166366047050.jpg?param=640y300
+    music_link: /music
+  reward_list:
+    - name: 985***861
+      amount: 9.9
+      datatime: 2022-06-29
+    - name: 匿名
+      amount: 6.6
+      datatime: 2023-02-27
+    - name: 301****429
+      amount: 20.0
+      datatime: 2023-09-26
