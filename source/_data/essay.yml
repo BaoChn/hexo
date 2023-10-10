@@ -12,12 +12,12 @@
     #   link: url
     #   from: 宝昌
     #   address: xxx
-    - content: 宝密基地(A-B.CC)全新改版咯~
+    - content: 宝密基地(A-B.CC)全新改版✨
       date: 2023/10/10
       image:
         - https://fc.sinaimg.cn/large/6e3afa63gy1hiq7xncdzuj216q0ngann.jpg
-      link: /
-    - content: 🤗你看这个头 ta 又大又圆
+      link:
+    - content: 你看这个头 ta 又大又圆🤗
       date: 2023/10/03
       image:
         - https://m.a-b.cc/wp-content/uploads/2023/10/2023100912270976.webp
@@ -33,8 +33,8 @@
     - content: 文艺复兴🤩
       date: 2023/09/15
       aplayer:
-        server: tencent
-        id: 003WmM2i2Lb1uj
+        server: netease
+        id: 2082358409
     - content: 小破站正式上线！
       date: 2021/09/23 23:32:00
       from: 站长

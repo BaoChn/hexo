@@ -18,6 +18,7 @@ menu:
   关于:
     介绍页: /about/ || anzhiyu-icon-paper-plane
     留言板: /comments/ || anzhiyu-icon-envelope
+    # 版权声明: /copyright/
     # 随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
@@ -450,7 +451,7 @@ footer:
       #   message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
     enable: true
-    centerImg:
+    centerImg: img/BaoCat.webp
     left:
       - title: email
         link: mailto:hi@bao.gs
@@ -783,7 +784,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg # 自定加载动画义头像
+  avatar: img/BaoCat.webp # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1031,12 +1032,12 @@ home_top:
   siteText: A-B.CC
   category:
     - name: 创作
-      path: /categories/art/
+      path: /categories/Art/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 项目
-      path: /categories/work/
+    - name: 技巧
+      path: /categories/Skill/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
@@ -1104,7 +1105,7 @@ comment_barrage_config:
 nav_music:
   enable: true
   console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
-  id: 264225315
+  id: 2082358409
   server: netease
   all_playlist: https://music.163.com/playlist?id=8434541222
 

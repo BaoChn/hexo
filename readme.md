@@ -23,6 +23,8 @@ hexo cl
 hexo g  
 hexo s
 
+依赖树信息 npm ls
+
 ## Write
 
 新建文章
@@ -33,3 +35,15 @@ hexo new draft "title"
 hexo publish "title"  
 空白页
 hexo new page "title"
+
+插入图片
+> {% image (url), alt=(描述) %}  
+
+插入提示
+> {% note info flat %}文本{% endnote %}  
+
+插入链接块
+> {% link 标题,描述,(url) %}  
+
+按键
+{% kbd (按键号) %}
