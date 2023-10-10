@@ -1,3 +1,5 @@
+## Build-up
+
 https://hexo.io/zh-cn/docs/
 https://nodejs.org/zh-cn/download
 https://git-scm.com/
@@ -20,3 +22,14 @@ $ npm install hexo-renderer-pug hexo-renderer-stylus --save
 hexo cl  
 hexo g  
 hexo s
+
+## Write
+
+新建文章
+hexo new "title"  
+草稿箱
+hexo new draft "title"  
+发布草稿
+hexo publish "title"  
+空白页
+hexo new page "title"
