@@ -19,8 +19,8 @@ $ npm install hexo
 
 $ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
-hexo cl  
-hexo g  
+hexo cl
+hexo g
 hexo s
 
 依赖树信息 npm ls
@@ -47,3 +47,6 @@ hexo new page "title"
 
 按键
 {% kbd (按键号) %}
+
+{% image , alt= %}  
+{% kbd  %}

@@ -107,7 +107,7 @@ deploy:
 # APlayer
 # https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
 aplayer:
-  meting: true
+  meting: true  
   asset_inject: false
 
 #envelope_comment

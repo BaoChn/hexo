@@ -523,8 +523,8 @@ footer:
     linkList:
       # - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
       #   text: 主题
-      # - link: https://image.anheyu.com
-      #   text: 图床
+      - link: https://w.a-b.cc/
+        text: 经典版
       - link: https://beian.miit.gov.cn/
         text: 皖ICP备2021016969号
     subTitle:

@@ -42,8 +42,8 @@
   map:
     title: 当前位于
     StrengthenTitle: 江苏·苏州
-    background: /img/location.png
-    backgroundDark: /img/location-dark.png
+    background: /img/location.webp
+    backgroundDark: /img/location-dark.webp
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2000
@@ -54,7 +54,7 @@
   personalities:
     author_name: 主人公
     personality_type: ENFJ人格
-    photo_url: https://www.16personalities.com/static/images/personality-types/headers/diplomats_Protagonist_ENFJ_personality_header.svg
+    photo_url: /img/about-personality.webp
     personality_img: https://www.16personalities.com/static/images/personality-types/avatars/enfj-protagonist.svg
     name_url: https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC
   maxim:
@@ -75,24 +75,24 @@
     comic_title: 追剧
     comic_list:
       - name: 超异能族
-        href: https://movie.douban.com/subject/35206436/
-        cover: https://img1.doubanio.com/view/photo/l/public/p2898332538.webp
+        href: https://tv.a-b.cc/voddetail/120.html
+        cover: https://cdn.a-b.cc/Poster/2023-08/cynz.webp
       - name: 好事成双
-        href: https://movie.douban.com/subject/35490184/
-        cover: https://img.ophim9.cc/uploads/movies/chuyen-tot-thanh-doi-thumb.jpg
+        href: https://tv.a-b.cc/voddetail/229.html
+        cover: https://cdn.a-b.cc/Poster/2023-10/hscs.webp
       - name: 宇宙探索编辑部
-        href: https://movie.douban.com/subject/34941536/
-        cover: https://img1.doubanio.com/view/photo/l/public/p2878630517.webp
-      - name: 鬼灭之刃
-        href: https://www.bilibili.com/bangumi/media/md22718131
-        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+        href: https://tv.a-b.cc/voddetail/5.html
+        cover: https://cdn.a-b.cc/Poster/2023-08/yztsbjb.webp
+      - name: 长安三万里
+        href: https://tv.a-b.cc/voddetail/242.html
+        cover: https://cdn.a-b.cc/Poster/2023-09/caswl.webp
       - name: 咒术回战
-        href: https://www.bilibili.com/bangumi/media/md28229899
-        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+        href: https://tv.a-b.cc/voddetail/1.html
+        cover: https://cdn.a-b.cc/Poster/2023-07/zshz2.webp
   like:
     like_tips: 关注偏好
     like_title: 数码科技
-    like_bg: img/about-focus.jpg
+    like_bg: /img/about-tech.webp
     like_bottom: 手机、电脑软硬件
   music:
     music_tips: 音乐偏好
