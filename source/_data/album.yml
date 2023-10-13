@@ -1,0 +1,64 @@
+- class_name: 个人画册
+  path_name: /paints
+  type: 2
+  description: 拙作还请见笑~
+  cover: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
+  top_background: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2019-09-18
+      content: 怪兽大乱斗
+      image:
+        - https://A-B.CC/wp-content/uploads/iMonster.webp
+    - date: 2019-09-18
+      content: 南昌Tower
+      image:
+        - https://A-B.CC/wp-content/uploads/N.C.Tower_.webp
+    - date: 2019-09-18
+      content: 月饼松鼠
+      image:
+        - https://A-B.CC/wp-content/uploads/squirrel-cat.webp
+    - date: 2019-09-18
+      content: 森林之王
+      image:
+        - https://A-B.CC/wp-content/uploads/Lying-lion.webp
+    - date: 2019-09-18
+      content: 南昌Tower
+      image:
+        - https://A-B.CC/wp-content/uploads/N.C.Tower_.webp
+    - date: 2019-09-18
+      content: 耗子喂汁
+      image:
+        - https://A-B.CC/wp-content/uploads/Mice-Drinker.webp
+    - date: 2019-09-18
+      content: 野原しんのすけ
+      image:
+        - https://W.A-B.CC/wp-content/uploads/野原-しんのすけ.jpg
+    - date: 2019-09-18
+      content: 桜田ネネ
+      image:
+        - https://W.A-B.CC/wp-content/uploads/桜田ネネ.jpg
+    - date: 2019-09-18
+      content: 嘻哈小新
+      image:
+        - https://W.A-B.CC/wp-content/uploads/嘻哈小新.webp
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  album_list:
+    - date: 2022-10-24
+      content: 老妹的画
+      image:
+        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg

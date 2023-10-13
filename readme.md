@@ -50,3 +50,16 @@ hexo new page "title"
 
 {% image , alt= %}  
 {% kbd  %}
+
+## Album
+album_list:
+    - date: 2000/00/00 01:00:00
+      content: 描述
+      image:
+        - (url)
+    - date: 2000/00/00
+      content: 描述
+      address: 地址
+      from: 来源
+      image:
+        - 

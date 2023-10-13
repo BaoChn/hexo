@@ -14,13 +14,13 @@
   description: 菜鸟剪辑师／独立开发者
   aboutsiteTips:
     tips: 追求
-    title1: 源于
-    title2: 热爱而去 感受
+    title1: 源于热爱
+    title2: 而为之
     word:
       - 学习
       - 创造
       - 探索
-  helloAbout: 天选母胎 SOLO
+  helloAbout: 天天爱摸鱼
   skillsTips:
     tips: 技能
     title: 开启创造力
@@ -54,7 +54,7 @@
   personalities:
     author_name: 主人公
     personality_type: ENFJ人格
-    photo_url: /img/about-personality.webp
+    photo_url: /img/about-panda.webp
     personality_img: https://www.16personalities.com/static/images/personality-types/avatars/enfj-protagonist.svg
     name_url: https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC
   maxim:
@@ -82,7 +82,7 @@
         cover: https://cdn.a-b.cc/Poster/2023-10/hscs.webp
       - name: 宇宙探索编辑部
         href: https://tv.a-b.cc/voddetail/5.html
-        cover: https://cdn.a-b.cc/Poster/2023-08/yztsbjb.webp
+        cover: https://cdn.a-b.cc/Poster/2023-10/yztsbjb.webp
       - name: 长安三万里
         href: https://tv.a-b.cc/voddetail/242.html
         cover: https://cdn.a-b.cc/Poster/2023-09/caswl.webp
@@ -93,10 +93,10 @@
     like_tips: 关注偏好
     like_title: 数码科技
     like_bg: /img/about-tech.webp
-    like_bottom: 手机、电脑软硬件
+    like_bottom: 计算机、电子数码产品
   music:
     music_tips: 音乐偏好
-    music_title: 欧美、民谣、华语流行
+    music_title: 华语民谣、欧美流行、Lofi
     music_bg: http://p2.music.126.net/_yDVvfmDLOTPxkQ_vCKVDg==/109951166366047050.jpg?param=640y300
     music_link: /music
   reward_list:
