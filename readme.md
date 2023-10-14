@@ -35,6 +35,8 @@ hexo new draft "title"
 hexo publish "title"  
 空白页
 hexo new page "title"
+生成atom.xml
+npm install hexo-generator-feed --save
 
 插入图片
 > {% image (url), alt=(描述) %}  

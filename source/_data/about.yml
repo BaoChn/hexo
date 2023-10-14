@@ -20,25 +20,25 @@
       - 学习
       - 创造
       - 探索
-  helloAbout: 天天爱摸鱼
+  helloAbout: 众人皆卷我躺平
   skillsTips:
     tips: 技能
     title: 开启创造力
   careers:
     tips: 生涯
-    title: 无限进步
+    title: 无限探索
     list:
       - desc: EDU, 动画专业
         color: "#357ef5"
       - desc: JOB, 视频内容开发
-        color: "#357ef5"
-      - desc: NOW, 前端项目设计
-        color: "#357ef5"
+        color: "#7ecef4"
+      - desc: GUI, 前端交互设计
+        color: "#cce198"
     img: img/timeline.png
   statistic:
     link: /archives
     text: 文章隧道
-    cover: img/about-data.jpg
+    cover: /img/about-data.jpg
   map:
     title: 当前位于
     StrengthenTitle: 江苏·苏州
@@ -104,8 +104,17 @@
       amount: 9.9
       datatime: 2022-06-29
     - name: 匿名
+      amount: 50.0
+      datatime: 2022-08-10
+    - name: 匿名
       amount: 6.6
       datatime: 2023-02-27
+    - name: 匿名
+      amount: 8.0
+      datatime: 2023-08-28
     - name: 301****429
       amount: 20.0
       datatime: 2023-09-26
+    - name: 匿名
+      amount: 5.0
+      datatime: 2023-10-08
