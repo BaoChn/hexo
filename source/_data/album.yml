@@ -1,9 +1,9 @@
-- class_name: 个人画册
-  path_name: /paints
+- class_name: 宝的日常
+  path_name: /pic
   type: 2
-  description: 拙作还请见笑~
-  cover: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
-  top_background: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
+  description: 沙雕事件&乐趣瞬间
+  cover: https://w.a-b.cc/wp-content/uploads/me.jpg
+  top_background: https://w.a-b.cc/wp-content/uploads/me.jpg
   rowHeight: 220
   limit: 10
   lazyload: true
@@ -12,6 +12,44 @@
   top_link: /album
   top_btn_text: 返回
   album_list:
+    - date: 2023-10-12
+      content: 震惊！一✈️飞离太阳系！
+      address: 新区站
+      from: 地球
+      image:
+        - https://m.a-b.cc/wp-content/uploads/2023/10/2023101505580192.webp
+    - date: 2023-07-22
+      content: 这年头连公共单车也霸占😅
+      address: 长亭站
+      image:
+        - https://w.a-b.cc/wp-content/uploads/bicycle_locked-768x1024.webp
+    - date: 2023-04-01
+      content: 蛮可爱俩娃子💤
+      image:
+        - https://w.a-b.cc/wp-content/uploads/Train_Dreamer.webp
+    - date: 2022-03-06
+      content: 社畜第一步，技师送上路😅
+      image:
+        - https://w.a-b.cc/wp-content/uploads/51job.webp
+
+- class_name: 个人画册
+  path_name: /paints
+  type: 1
+  description: 拙作还请见笑~
+  cover: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
+  top_background: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2022-12-31
+      content: 阳康归来🩹
+      image:
+        - https://w.a-b.cc/wp-content/uploads/recover.webp
+    - date: 2022-12-24
+      content: 咩~
+      image:
+        - https://w.a-b.cc/wp-content/uploads/%F0%9F%90%8F.webp
     - date: 2019-09-18
       content: 怪兽大乱斗
       image:
@@ -48,17 +86,3 @@
       content: 嘻哈小新
       image:
         - https://W.A-B.CC/wp-content/uploads/嘻哈小新.webp
-
-- class_name: 我的日常
-  path_name: /dailyPhoto
-  type: 1
-  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
-  top_link: /album
-  top_btn_text: 返回
-  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  album_list:
-    - date: 2022-10-24
-      content: 老妹的画
-      image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg

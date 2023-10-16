@@ -1,8 +1,8 @@
 menu:
-  # 文章:
-  #   隧道: /archives/ || anzhiyu-icon-box-archive
-  #   分类: /categories/ || anzhiyu-icon-shapes
-  #   标签: /tags/ || anzhiyu-icon-tags
+  文章:
+    隧道: /archives/ || anzhiyu-icon-box-archive
+    分类: /categories/ || anzhiyu-icon-shapes
+    标签: /tags/ || anzhiyu-icon-tags
 
   # 友链:
   #   友人帐: /link/ || anzhiyu-icon-link
@@ -11,9 +11,11 @@ menu:
   我的:
     记事本: /essay/ || anzhiyu-icon-lightbulb
     相册集: /album/ || anzhiyu-icon-images
+
+  功能:
     音乐馆: /music/?id=8434541222&server=netease || anzhiyu-icon-music
+    小空调: /air-conditioner/ || anzhiyu-icon-fan
   #   追番页: /bangumis/ || anzhiyu-icon-bilibili
-  #   小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   关于:
     介绍页: /about/ || anzhiyu-icon-paper-plane
@@ -517,11 +519,11 @@ footer:
     authorLink: /
     cc:
       enable: true
-      link: /copyright
+      link: /copyright/
     linkList:
       - link: https://w.a-b.cc/
         text: 时光机
-      - link: /privacy
+      - link: /privacy/
         text: 隐私
       - link: https://github.com/jerryc127/hexo-theme-butterfly
         text: 开发
@@ -919,11 +921,11 @@ rightside_item_order:
 
 # medium-zoom
 # https://github.com/francoischalifour/medium-zoom
-medium_zoom: true
+medium_zoom: false
 
 # fancybox
 # http://fancyapps.com/fancybox/3/
-fancybox: false
+fancybox: true
 
 # Tag Plugins settings (标籤外挂)
 # --------------------------------------

@@ -1,5 +1,5 @@
 - title: 随手记
-  subTitle: 咸鱼的日常生活
+  subTitle: 闲鱼的随手记
   tips: 随时随地，分享生活
   buttonText: 关于我
   buttonLink: /about/
@@ -37,7 +37,8 @@
         id: 2082358409
     - content: 限时领取独家秘籍📌
       date: 2022/04/01
-      image: https://w.a-b.cc/wp-content/uploads/joker.webp
+      image:
+        - https://w.a-b.cc/wp-content/uploads/joker.webp
     - content: 小破站正式上线！
       date: 2021/09/23 23:32:00
       from: 站长
