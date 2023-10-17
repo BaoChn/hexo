@@ -1,5 +1,5 @@
 ---
-title: 赛博空调 - 在线纳凉取暖！
+title: 赛博空调 - 在线取暖纳凉
 date: 2023-10-16 21:08:14
 comments: true
 aside: false

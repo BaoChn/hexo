@@ -1,21 +1,20 @@
 - class_name: 宝的日常
-  path_name: /pic
+  path_name: /pic/
   type: 2
-  description: 沙雕事件&乐趣瞬间
-  cover: https://w.a-b.cc/wp-content/uploads/me.jpg
-  top_background: https://w.a-b.cc/wp-content/uploads/me.jpg
+  description: 沙雕事件与乐趣瞬间
+  cover: https://pic.rmb.bdstatic.com/bjh/108303d9840d99b815944361a3597798.jpeg
+  top_background: https://pic.rmb.bdstatic.com/bjh/108303d9840d99b815944361a3597798.jpeg
   rowHeight: 220
   limit: 10
   lazyload: true
   btnLazyload: false
   url: false
-  top_link: /album
+  top_link: /album/
   top_btn_text: 返回
   album_list:
     - date: 2023-10-12
       content: 震惊！一✈️飞离太阳系！
       address: 新区站
-      from: 地球
       image:
         - https://m.a-b.cc/wp-content/uploads/2023/10/2023101505580192.webp
     - date: 2023-07-22
@@ -33,14 +32,13 @@
         - https://w.a-b.cc/wp-content/uploads/51job.webp
 
 - class_name: 个人画册
-  path_name: /paints
+  path_name: /paints/
   type: 1
   description: 拙作还请见笑~
-  cover: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
-  top_background: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
-  url: false
-  top_link: /album
+  top_link: /album/
   top_btn_text: 返回
+  top_background: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp
+  cover: https://w.a-b.cc/wp-content/uploads/Year-of-the-Ox.webp  
   album_list:
     - date: 2022-12-31
       content: 阳康归来🩹
@@ -50,7 +48,7 @@
       content: 咩~
       image:
         - https://w.a-b.cc/wp-content/uploads/%F0%9F%90%8F.webp
-    - date: 2019-09-18
+    - date: 2019-12-02
       content: 怪兽大乱斗
       image:
         - https://A-B.CC/wp-content/uploads/iMonster.webp
@@ -58,7 +56,7 @@
       content: 南昌Tower
       image:
         - https://A-B.CC/wp-content/uploads/N.C.Tower_.webp
-    - date: 2019-09-18
+    - date: 2020-10-09
       content: 月饼松鼠
       image:
         - https://A-B.CC/wp-content/uploads/squirrel-cat.webp

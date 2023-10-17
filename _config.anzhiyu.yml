@@ -8,7 +8,7 @@ menu:
   #   友人帐: /link/ || anzhiyu-icon-link
   #   朋友圈: /fcircle/ || anzhiyu-icon-artstation
 
-  我的:
+  个人:
     记事本: /essay/ || anzhiyu-icon-lightbulb
     相册集: /album/ || anzhiyu-icon-images
 
@@ -19,6 +19,7 @@ menu:
 
   关于:
     介绍页: /about/ || anzhiyu-icon-paper-plane
+    My EDC: /equipment/ || anzhiyu-icon-dice-d20
     留言板: /comments/ || anzhiyu-icon-envelope
     # 版权声明: /copyright/
     # 随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
@@ -196,16 +197,16 @@ post_meta:
     tags: true # true or false 主页是否显示标籤
     label: false # true or false 显示描述性文字
   post:
-    date_type: both # created or updated or both 文章页日期是创建日或者更新日或都显示
+    date_type: created # created or updated or both 文章页日期是创建日或者更新日或都显示
     date_format: date # date/relative 显示日期还是相对日期
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
-    label: true # true or false 显示描述性文字
+    label: false# true or false 显示描述性文字
     unread: false # true or false 文章未读功能
 
 # 主色调相关配置
 mainTone:
-  enable: false # true or false 文章是否启用获取图片主色调
+  enable: true # true or false 文章是否启用获取图片主色调
   mode: api # cdn/api/both cdn模式为图片url+imageAve参数获取主色调，api模式为请求API获取主色调，both模式会先请求cdn参数，无法获取的情况下将请求API获取
   # 项目地址：https://github.com/anzhiyu-c/img2color-go
   api: https://img2color-go.vercel.app/api?img= # mode为api时可填写
@@ -225,7 +226,7 @@ wordcount:
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 3
+  method: 1
   length: 500 # if you set method to 2 or 3, the length need to config
 
 # anchor
