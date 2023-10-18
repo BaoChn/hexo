@@ -35,8 +35,6 @@ hexo new draft "title"
 hexo publish "title"  
 空白页
 hexo new page "title"
-生成atom.xml
-npm install hexo-generator-feed --save
 
 插入图片
 > {% image (url), alt=(描述) %}  
@@ -64,4 +62,13 @@ album_list:
       address: 地址
       from: 来源
       image:
-        - 
+
+## 插件
+- 生成atom.xml
+> npm install hexo-generator-feed --save
+- 为文章配图提供绝对路径
+> npm install hexo-asset-image --save
+- 字数统计／阅时预估
+> npm install hexo-wordcount --save
+- 卸载**插件
+> npm uninstall *** 

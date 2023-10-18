@@ -13,6 +13,7 @@ comments: false
 ### 在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息：
 - <b>百度统计工具</b> 会收集你的访问信息、访问操作过程
 - <b>51la 统计工具</b> 会收集你的访问信息
+- <b>busuanzi 统计</b> 会收集你的访问信息
 - <b>阿里 cdn（iconfont）</b> 会收集你的访问信息
 - <b>网易云 音乐</b> 会收集你的访问信息
 ### 在访问时，本人仅会处于以下目的，使用你的个人信息：
@@ -84,9 +85,10 @@ comments: false
 - 评论系统
 - 即刻短文
 - 中控台
-
+- 胶囊音乐
 `第三方服务`
 - 51a 统计
+- busuanzi 统计
 ### 四、如何共享、转让你的个人信息
 本人不会与任何公司、组织和个人共享你的隐私信息
 本人不会将你的个人信息转让给任何公司、组织和个人
@@ -94,25 +96,5 @@ comments: false
 ## 五、附属协议
 当监测到存在恶意访问、恶意请求、恶意攻击、恶意评论的行为时，为了防止增大受害范围，可能会临时将你的 ip 地址及访问信息短期内添加到黑名单，短期内禁止访问。
 此黑名单可能被公开，并共享给其他站点（主体并非本人）使用，包括但不限于：IP 地址、设备信息、地理位置。
-<script>// 获取ip
-function getIpInfo(){
-  var fetchUrl = "https://api.qjqq.cn/api/Local"
-  fetch(fetchUrl)
-    .then(res => res.json())
-    .then(json =>{
-      var country = json.country;
-      var ip = json.ip;
-      var province = json.province;
-      var city = json.city;
-      var isp = json.isp;
-      document.getElementById("userAgentIp").innerHTML = ip;
-      document.getElementById("userAgentCountry").innerHTML = json.data.country;
-      document.getElementById("userAgentRegion").innerHTML = json.data.prov;
-      document.getElementById("userAgentCity").innerHTML = json.data.city;
-      document.getElementById("userAgentIsp").innerHTML = json.data.isp;
-      var uaInfo = navigator.userAgent;
-      document.getElementById("userAgentDevice").innerHTML = uaInfo;
-    })
-}
-getIpInfo()
-</script>
+
+<script src="/js/privacy.js"></script>
