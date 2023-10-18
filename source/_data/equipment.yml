@@ -1,7 +1,7 @@
 - class_name: EDC Goods
   description: 实物装备推荐
   tip: 一起享受科技带来的乐趣
-  top_background: /img/about-tech.webp
+  top_background: /img/equipment.webp
   good_things:
     - title: 生产力
       description: 提升生产效率的硬件设备
