@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 宝昌
+title: 宝秘基地
 subtitle: 'BaoChn'
 description: '逐梦不息，创想可期~'
-keywords:
+keywords: 宝昌,baochn,宝秘基地
 author: 宝昌
 language: zh-CN
 timezone: ''
@@ -144,6 +144,6 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  icon: icon.png
+  icon: /img/512.png
   autodiscovery: true
   template:

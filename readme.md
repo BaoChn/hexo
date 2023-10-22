@@ -16,6 +16,7 @@ $ npm install hexo
 > ## Plugins: https://hexo.io/plugins/  
 > ## Themes: https://hexo.io/themes/  
 > theme: anzhiyu  
+> ' - '  -> '｜'
 
 $ npm install hexo-renderer-pug hexo-renderer-stylus --save
 

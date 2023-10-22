@@ -12,11 +12,15 @@
     #   link: url
     #   from: 宝昌
     #   address: xxx
+    - content: New Goal Achieved🤓
+      date: 2023/10/22
+      image:
+        - https://m.a-b.cc/wp-content/uploads/2023/10/20231022031335100.webp
     - content: 宝密基地(A-B.CC)全新改版✨
       date: 2023/10/10
       image:
         - https://fc.sinaimg.cn/large/6e3afa63gy1hiq7xncdzuj216q0ngann.jpg
-      link:
+      link: /
     - content: 你看这个头 ta 又大又圆🤗
       date: 2023/10/03
       image:

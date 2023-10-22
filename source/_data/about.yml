@@ -36,7 +36,7 @@
         color: "#cce198"
     img: img/timeline.png
   statistic:
-    link: /archives
+    link: /archives/
     text: 文章隧道
     cover: /img/about-data.jpg
   map:
@@ -98,7 +98,7 @@
     music_tips: 音乐偏好
     music_title: 华语民谣、欧美流行、Lofi
     music_bg: http://p2.music.126.net/_yDVvfmDLOTPxkQ_vCKVDg==/109951166366047050.jpg?param=640y300
-    music_link: /music
+    music_link: /music/
   reward_list:
     - name: 985***861
       amount: 9.9
