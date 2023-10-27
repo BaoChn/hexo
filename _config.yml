@@ -9,12 +9,13 @@ description: '逐梦不息，创想可期~'
 keywords: 宝昌,baochn,宝秘基地
 author: 宝昌
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://a-b.cc/
-permalink: :year/:month/:day/:title/
+permalink: :category/:title/
+## defult: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -66,7 +67,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: Posts
 category_map:
 tag_map:
 

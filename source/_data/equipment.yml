@@ -1,5 +1,5 @@
 - class_name: EDC Goods
-  description: 实物装备推荐
+  description: 自用装备推荐
   tip: 一起享受科技带来的乐趣
   top_background: /img/equipment.webp
   good_things:
@@ -9,32 +9,32 @@
         - name: DIY 台式计算机
           specification: ROG Z790-A／13900K／ A770／32GB
           description: 性能强劲，散热稳定，拓展性强，用于工程项目
-          image: https://dlcdnwebimgs.asus.com.cn/gain/B3BA5FF7-28FF-447D-972E-1641C610ED40/w717/h525
+          image: /img/EDC/asus-rog-z790-a.webp
           link: https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-z790-a-gaming-wifi-model/
         - name: LG 27UP850N 显示器
           specification: 4K／27“／DCI-P3 95%
           description: 买前生产力，买后爱奇艺。画面清晰，色泽纯净，接口丰富！
-          image: https://www.lg.com/cn/images/monitors/md07522091/gallery/medium01.jpg
+          image: /img/EDC/lg-27up850n.webp
           link: https://www.lg.com/cn/monitors/lg-27up850n
         - name: 努比亚Z50 Ultra
           specification: 敦煌／12+512GB
           description: 没错！我就是冲着真·全面屏来的，MyOS 近原生且无广，红外 NFC 很实用~
-          image: https://image.ztemall.com/46a4588ee4e4d6ea70498376f9ef9670.png?x-oss-process=image/format,webp
+          image: /img/EDC/nubia-z50-ultra.webp
           link: https://www.ztedevices.com/cn/product/nubia-z50-ultra/
         - name: iPhone 13
           specification: 粉色／512GB
           description: 圆润四方加直角边框，MagSafe 配件增添可玩性，基带信号、4G内存和刘海屏是一大槽点…
-          image: https://www.apple.com.cn/v/iphone/compare/ae/images/overview/compare_iphone13_starlight__esudx06azmeu_large_2x.jpg
+          image: /img/EDC/apple-iphone-13.png
           link: https://www.apple.com.cn/shop/buy-iphone/iphone-13
         - name: AirPods（第三代）
           specification: 标准版
           description: 第三代对比第二代提升很大，和我一样不喜欢入耳式耳机的可以入，空间音频等功能确实新颖，第一次使用有被惊艳到。
-          image: https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MME73?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861342000
+          image: /img/EDC/apple-airpods-3.png
           link: https://www.apple.com.cn/airpods-3rd-generation/
         - name: Alienware 15 (R4)
           specification: 8750H／4K／32GB／2.5TB
           description: 虽早购于17年，依旧惊艳能打！暗藏 Tobii 眼球追踪黑科技，配备全彩 RGB 灯带~
-          image: https://www.astringo.com/wp-content/uploads/2018/09/Alienware-R4b.jpg
+          image: /img/EDC/dell-alienware-15-r4.webp
           link: https://www.dell.com/zh-hk/shop/laptops/15/spd/alienware-15-r4
     - title: 出行
       description: 用来出行的实物及设备
@@ -42,15 +42,15 @@
         - name: 华为手环 8
           specification: 幻夜黑／NFC版
           description: 15天续航远离充电焦虑，睡眠心率检测精准可控，付款码、NFC 门禁、公交卡样样精通~
-          image: https://res.vmallres.com/pimages//uomcdn/CN/pms/202305/gbom/6941487291557/group//428_428_2CA899C329BB2CE3A70D60A4D14D9DD9.png
+          image: /img/EDC/huawei-band-8.webp
           link: https://consumer.huawei.com/cn/wearables/band8/
         - name: 三星 T7 Shield
           specification: 暗夜黑／4TB
           description: 小巧紧凑，坚固耐用，千兆传输（USB-C）,IP65级防尘水（不过被随后上架的T9狠狠的背刺了😅）
-          image: https://images.samsung.com/is/image/samsung/p6pim/cn/mu-pe2t0s-ww/gallery/cn-portable-ssd-t7-shield-mu-pe2t0s-ww-531911724?$684_547_PNG$
+          image: /img/EDC/samsung-portable-ssd-t7-shield.webp
           link: https://www.samsung.com/cn/memory-storage/portable-ssd/t7-shield-4tb-black-external-storage-nvme-1050-mbs-mu-pe4t0s-ww/
         - name: Cat Rock 83995
           specification: 黑色
           description: 揣个平板，塞些线材，装堆证件，放点口罩，啪的一下就满了~
-          image: https://i.ebayimg.com/images/g/3HYAAOSw32ViK5f0/s-l1200.webp
+          image: /img/EDC/cat-rock-83995.webp
           link: https://item.m.jd.com/product/10025677128716.html
