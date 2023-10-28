@@ -5,7 +5,7 @@ tags: [STT,格式转换,大模型,字幕]
 categories: Skill
 cover: /img/2023/audio2text/audio2text.webp
 ---
-{% tip info %}剪辑工作上时常有将录制内容输出文字稿的需求，于是研究了下 OpenAI 公司的 [Whisper](https://github.com/openai/whisper) 并搭载 [GGML](https://huggingface.co/ggerganov/whisper.cpp) 模型来实现本地化音频转文字与实时录制转写。相比于[讯飞听见](https://www.iflyrec.com/zhuanwenzi.html)、[网易见外](https://sight.youdao.com/)等在线 STT 平台，在提升制作效率的同时，保障数据传输的安全性☂️{% endtip %}
+{% tip bell %}剪辑工作中时常有将录制内容输出文字稿的需求，便试着借助 OpenAI 公司的 [Whisper](https://github.com/openai/whisper) 并搭载 [GGML](https://huggingface.co/ggerganov/whisper.cpp) 模型来实现本地化音频转文字与实时录制转写。相比于[讯飞听见](https://www.iflyrec.com/zhuanwenzi.html)、[网易见外](https://sight.youdao.com/)等在线 STT 平台，在提升制作效率的同时，保障数据传输的安全性☂️{% endtip %}
 
 ## 准备部分
 1. 这里采用的是由 [Const-me](https://github.com/Const-me/Whisper) 提供的 Whisper 客户端
@@ -40,4 +40,4 @@ cover: /img/2023/audio2text/audio2text.webp
 > ### 🌟 One more thing
 > 此外推荐个更易上手的 Whisper 客户端 —— [Memo](https://memo.ac/zh/)
 > ![Memo界面](https://vip2.loli.io/2023/10/04/XfLIBzcvK65CxEJ.png)
-> {% link 测试资格需自行申请,store.memo.ac,https://store.memo.ac/checkout %}
+> {% link 测试资格需自行申请,store.memo.ac,https://store.memo.ac/ %}

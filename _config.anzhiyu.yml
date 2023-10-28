@@ -14,7 +14,7 @@ menu:
     装备库: /equipment/ || anzhiyu-icon-dice-d20
 
   功能:
-    音乐馆: /music/?id=8434541222&server=netease || anzhiyu-icon-music
+    音乐馆: /music/ || anzhiyu-icon-music
     小空调: /air-conditioner/ || anzhiyu-icon-fan
   #   追番页: /bangumis/ || anzhiyu-icon-bilibili
 
@@ -124,7 +124,7 @@ docsearch:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   preload: true
   CDN:
 
@@ -1158,7 +1158,7 @@ greetingBox:
 
 # 文章顶部ai摘要
 post_head_ai_description:
-  enable: true
+  enable: false
   gptName: AnZhiYu
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local

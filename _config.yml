@@ -134,6 +134,13 @@ envelope_comment:
     top_img: false
     type: envelope
 
+# https://github.com/wzpan/hexo-generator-search
+search:
+  path: search.xml
+  field: post
+  content: true
+  template:
+
 # RSS
 feed:
   enable: true
