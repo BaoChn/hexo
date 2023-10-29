@@ -21,7 +21,7 @@ cover: https://a-b.cc/wp-content/uploads/desktop-manager.webp
 
 ### b. 文件检索类
 1. Everything (voidtools.com)
-{% image  %}
+{% image https://www.voidtools.com/sssmall2.gif %}
 老牌文件搜索利器，用过都说好~
 2. Listary (listary.com)
 检索速度上和 Everything 不分上下，个人更中意它一些小细节：
@@ -41,26 +41,26 @@ HFF9AVV857AENGWWMPMRN5VLHB884JEA
 Y48FXJJ5JDY6UVTP8FMJSHDLSAXZB5HE
 ```
 
-### c. 文件快速预览 (QuickLook)
+### c. 文件快速预览 ([QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S))
 1. 启动时，选中文件后按下 空格键 预览窗口
 2. 可用于 视频、音乐、图片、PDF、Markdown格式文件
-3. 可通过安装拓展更多文件类型（电子书、Xmind 脑图、Office 文档、3D 模型…）：Available Plugins · QL-Win/QuickLook Wiki (github.com) 
+3. 可通过安装拓展更多文件类型（电子书、Xmind 脑图、Office 文档、3D 模型…）：[Available Plugins · QL-Win/QuickLook Wiki (github.com)](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins) 
 
-### d. 系统资源监控 (TrafficMonitor)
+### d. 系统资源监控 ([TrafficMonitor](https://gitee.com/zhongyang219/TrafficMonitor))
 {% image https://a-b.cc/wp-content/uploads/traffic-monitor.webp %}
 1. 实时显示网速（上下行）、CPU、GPU、内存、温度等信息
 2. 支持调节透明度、锁定位置、鼠标穿透、内置 12 种悬浮窗样式
 
-### e. 音量自由调节 (EarTrumpet)
+### e. 音量自由调节 ([EarTrumpet](https://apps.microsoft.com/store/detail/eartrumpet/9NBLGGH516XP))
 {% image https://a-b.cc/wp-content/uploads/hero.gif %}
 1. 能分开调节不同应用的音量
 3. 支持快捷键快速呼出窗口
 
-### f. 截图工具 (Snipaste)
+### f. 截图工具 ([Snipaste](https://www.snipaste.com/))
 {% image https://a-b.cc/wp-content/uploads/snipaste.webp %}
 - 支持贴图、批注、打码等
 
-### g. 影音播放器 (完美解码)
+### g. 影音播放器 ([完美解码](https://jm.wmzhe.com/))
 {% image https://jm.wmzhe.com/image/softWindow.jpg %}
 - 基于 PotPlayer 修改，内置各式解码器
 
